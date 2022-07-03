@@ -150,6 +150,9 @@ layer:
     phone:
       description: |
           Original value of [`phone`](http://wiki.openstreetmap.org/wiki/Key:phone) tag.
+    wikipedia:
+      description: |
+          Original value of [`wikipedia`](http://wiki.openstreetmap.org/wiki/Key:wikipedia) tag.
   datasource:
     geometry_field: geometry
     key_field: osm_id
