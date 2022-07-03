@@ -381,6 +381,15 @@ def_poi_fields: &poi_fields
   - name: brand
     key: brand
     type: string
+  - name: opening_hours
+    key: opening_hours
+    type: string
+  - name: wheelchair
+    key: wheelchair
+    type: string
+  - name: phone
+    key: phone
+    type: string
 
 def_poi_mapping: &poi_mapping
   aerialway: *poi_mapping_aerialway
